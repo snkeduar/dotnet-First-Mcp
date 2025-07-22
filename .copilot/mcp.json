@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "MinimalMcpServer": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "C:\\Users\\User\\Documents\\GitHub\\mcp-server\\McpServer.csproj"
+      ]
+    }
+  }
+}
